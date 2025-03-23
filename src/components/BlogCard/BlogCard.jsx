@@ -1,5 +1,5 @@
 import styles from './BlogCard.module.css';
-import formatDateToNow from '../../helpers/formatDate.js';
+import formatDateToNow from '../../helpers/formatDateToNow.js';
 
 const BlogCard = ({
   poster,
