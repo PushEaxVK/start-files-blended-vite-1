@@ -1,11 +1,12 @@
 {
-  "name": "source-code",
+  "name": "start-files-blended-vite-1",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "build-github": "vite build --base=/start-files-blended-vite-1/",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
