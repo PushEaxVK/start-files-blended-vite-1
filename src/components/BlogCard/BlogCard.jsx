@@ -12,7 +12,6 @@ const BlogCard = ({
 }) => {
   return (
     <>
-      {/* <h2>BlogCard</h2> */}
       <div className={styles.card}>
         <div className={styles.cardHeader}>
           <img className={styles.cardPoster} src={poster} alt="card__image" />
